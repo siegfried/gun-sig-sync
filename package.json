@@ -7,7 +7,9 @@
   "author": "Zhi-Qiang Lei",
   "license": "MIT",
   "dependencies": {
+    "@dcspark/cardano-multiplatform-lib-nodejs": "^3.1.2",
     "@types/node": "^18.11.18",
+    "gun": "^0.2020.1239",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
